@@ -1,10 +1,23 @@
-> [!note]
+
+## 书库整合
+
+两张表共同整理了大量学习与学术资源：表1侧重中文用户常用的开放教材、试卷题库、高考资料和高校生存指南等实用内容；表2则扩展到全球开放教材平台、学术论文数据库、在线课程、香港与台湾中文教材、文学资源，以及部分电子书分享站点（附版权风险提示），整体覆盖从备考自学到学术检索的多类免费或开放获取渠道。
+
+> [!important]
 > 思维方法收集：
 > * [全部基础讲义和解题思路合集下载 - rq cen的文章 - 知乎](https://zhuanlan.zhihu.com/p/600454340)
 > * [有哪些高质量的自学网站？ - 剥茧的回答 - 知乎](https://www.zhihu.com/question/41476832/answer/2033326637509502024)
 > * [有用的社会生活小常识 - 咕噜耄 - B站](https://space.bilibili.com/2930404)
 > * [利用学生、教职工身份可以享受到的相关学生优惠 - ivmm/Student-resources ](https://github.com/ivmm/Student-resources)
+> * [战争与革命中的西南联大 - archive.org](https://ia601400.us.archive.org/6/items/themicrostudios_gmail_2007/%E6%88%98%E4%BA%89%E4%B8%8E%E9%9D%A9%E5%91%BD%E4%B8%AD%E7%9A%84%E8%A5%BF%E5%8D%97%E8%81%94%E5%A4%A7.pdf)
 
+
+> [!tip]
+> 随着探索的不断深入，愈发意识到英语是睁眼看世界的那双眼睛，App 推荐：
+> * BookShelves eBook Reader：https://getbookshelves.app
+> * 英语阅读器：https://apps.apple.com/cn/app/%E8%8B%B1%E9%98%85%E9%98%85%E8%AF%BB%E5%99%A8/id1558805880
+> * 多邻国：https://www.duolingo.cn
+> * 咕噜口语：https://speakguru.net
 
 
 ### 表1
