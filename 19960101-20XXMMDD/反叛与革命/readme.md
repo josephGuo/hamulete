@@ -1,4 +1,6 @@
 * 不明白播客：https://bumingbai.net
+* [为什么开国皇帝总要杀一批开国功臣，这是什么缘由？ - 历史崔的回答 - 知乎](https://www.zhihu.com/question/61055181/answer/2075892321997137785)
+* [许家印家族当年的生活奢靡到什么地步? - 赵道衍的回答 - 知乎](https://www.zhihu.com/question/1978147142104290541/answer/2063917122280075865)
 * [你这一生 ，悟出最大的一个道理是什么 ? - Kaiser的回答 - 知乎](https://www.zhihu.com/question/661001252/answer/2016076960778965483)
 * [政治决策者是否会对自己的决策导致他人死亡的结果感到愧疚或反思？ - 知乎](https://www.zhihu.com/question/2013881690150418333)
 * [俄罗斯为何把如此宝贵的男性青壮年资源送到前线消耗？ - 知乎](https://www.zhihu.com/question/2069741446547215883)
