@@ -1,13 +1,8 @@
-日本台湾词典：
-  * https://tio.freemdict.com/jp
-  * https://sutian.moe.edu.tw/zh-hant/
-  * https://terms.naer.edu.tw
-  * https://terms.naer.edu.tw 
-  * https://www.shenyandayi.com
-
 图解词典（综合或名词）：
-   * https://dictionary.langeek.co/en-ZH 、 https://languagetools.biz
-   * https://www.opdome.com 、https://www.online-languages.info
+   * https://dictionary.langeek.co/en-ZH
+   * https://languagetools.biz
+   * https://www.opdome.com
+   * https://www.online-languages.info
    * https://www.languageguide.org/english/vocabulary/
    * https://kids.britannica.com/
 
@@ -15,7 +10,20 @@
   * https://esldesk.com/picture-dictionary/action-words
   * https://www.anglomaniacy.pl/picture-dictionary-topics-verbs.htm
 
+多邻国like
+  * https://langula.app
+  * https://www.memrise.com
+  * https://www.busuu.com
+  * https://www.lingohut.com
+  * https://www.clozemaster.com
+  * https://50languages.com
+  * https://www.loecsen.com
+  * https://learnenglishkids.britishcouncil.org
+  * https://ankiweb.net/shared/addons
+
+
 情景融入：
+  * https://www.littlefox.com
   * https://www.eslfast.com
   * https://elllo.org
   * https://www.starfall.com
@@ -23,6 +31,8 @@
   * https://typewords.cc
 
 绘本：
+  * https://www.littlefox.com
+  * https://www.mightybook.com
   * https://freekidsbooks.org
   * https://storylineonline.net/library
   * https://www.oxfordowl.co.uk
@@ -45,6 +55,13 @@
  * https://www.sampan.org
  * https://web.duoreader.cn
  * https://kmediashare.com
+
+日本台湾词典：
+  * https://tio.freemdict.com/jp
+  * https://sutian.moe.edu.tw/zh-hant/
+  * https://terms.naer.edu.tw
+  * https://terms.naer.edu.tw 
+  * https://www.shenyandayi.com
 
 海外书籍：
  * https://manybooks.net
