@@ -1,0 +1,80 @@
+## 先泼一盆冷水
+
+> 意向留学人群在留学期间的平均预算花费已连续四年上升，2022 年约为 53.5 万人民币。这一方面源于中国家庭经济条件的持续改善，另一方面则是因为面对疫情带来的不确定性，意向留学人群在预算上准备得更加充分。（2022, 新东方, p17）
+>
+> 新加坡属于英联邦国家，学费相对欧美高校更为低廉，教育质量却毫不逊色，因此在性价比上颇具优势。此外，新加坡的生活费也相对稳定，正常情况下，保障基本的衣食住行每年约需 8–10 万人民币。（2022, 新东方, p112）
+>
+> —— 新东方《中国留学白皮书》2022（大学版）
+
+一句话总结：欧美留学，没有四五十万打底，基本别想。
+
+另外再推荐一个访谈视频:  [【翁家翌：OpenAI，GPT，强化学习，Infra，后训练，天授，tuixue，开源，CMU，清华｜WhynotTV Podcast #4】 ](https://www.bilibili.com/video/BV1darmBcE4A)
+
+能够身心完全追求理想的毕竟是少数人，大部分人也只能作为社会组织中螺丝钉。
+
+除了阶层差距，人的天赋差距也可以说是“人的差距比狗还大”。
+
+
+## 相关留学资料分享
+
+资源分享：https://www.jianguoyun.com/p/DVRs0s8QqOPmBxjwmqkGIAA
+
+<img src="https://github.com/user-attachments/assets/b35d0eb7-a035-48ec-8af8-a93b16adc185" />
+
+高性价比人生指南：
+
+- https://eternity4719.github.io/HowToLiveBetter/?sec=31 （十八岁之后有哪几条路）
+- https://eternity4719.github.io/HowToLiveBetter/?sec=32 （出国留学：身份、打工、保险和回国认证）
+
+## A-Level & SAT
+
+国际学校的学生由学校教务部门统一组织集体报名，社会考生则需通过英国文化教育协会的 SRS 报名系统自主报名。总之，除了要有钱，流程也不省心……
+
+|          | A-Level             | SAT            |
+| -------- | ------------------- | -------------- |
+| 所属体系 | 英国                | 美国           |
+| 本质     | 课程体系 + 入学考试 | 标准化能力测试 |
+| 备考周期 | 通常 2 年           | 相对较短       |
+| 核心用途 | 申请英联邦国家大学  | 申请美国大学   |
+
+- A-Level 全称 General Certificate of Education Advanced Level，是英国的大学入学考试课程，相当于英国的"高考"。
+- SAT 全称 Scholastic Assessment Test，俗称"美国高考"，由美国大学理事会（College Board）主办。
+
+国内本科毕业后留学，通常是申请硕士（研究生），主要看这几项：
+
+- **本科成绩（GPA）**：最核心的硬件指标
+- **语言成绩**：雅思 / 托福（英国通常要求雅思 6.5–7.0）
+- **个人陈述（PS）**：说明你的学术兴趣与申请动机
+- **推荐信**：一般需要 2 封学术推荐信
+- **其他**：部分专业可能要求 GMAT / GRE、作品集或工作经验
+
+> 本部分由千问生成。
+
+| 科目   | 推荐网站                                                    |
+| ------ | ----------------------------------------------------------- |
+| 数学   | ExamSolutions（视频讲解）、RevisionMaths、NRICH（思维拔高） |
+| 物理   | Mini Physics、A-Level Physics Online                        |
+| 化学   | Chemguide（文字版复习资料）                                 |
+| 生物   | A-Level Biology、BioTopics                                  |
+| 经济   | The Student Room、Khan Academy                              |
+| 计算机 | Zakonweb（CAIE 考试局）                                     |
+
+## 移民信息相关
+
+> 报告显示，2026年1月及之后递交申请的印度籍申请人，面临的排期堪称“绝望级”：
+> * EB-2类别：预估等待179年
+> * EB-3类别：预估等待38年
+> * EB-1类别：预估等待4-5年
+>   
+> 与之形成鲜明对比的是，其他国家申请人的排期压力大幅缓解，各国绿卡等待时长差距极大：
+> * 中国籍申请人2026年递交申请，EB-1需等待5年、EB-2需25年、EB-3需起码7年；
+> * 菲律宾申请人优势更为明显，EB-1无排期、EB-2仅需0.3年，仅EB-3需要等待6年。
+>   
+> —— [贝特曼咨询 - 几代人等一张绿卡！美议员再次推动取消7%国别上限！](https://www.btmusa.cn/news/detail.html?id=1036)
+
+* [张哲瑞，周健，徐忠律师事务所 - 什么是移民排期？](https://www.hooyou.com/cn_version/visabulletin/index.html)
+* [咕噜美国通 - 2026年6月美国移民绿卡排期表](https://greencard.guruin.com)
+* [美国公民及移民服务局 - 《歡迎來到美國新移民指南》](https://www.uscis.gov/sites/default/files/document/guides/M-618_c.pdf)
+
+
+
