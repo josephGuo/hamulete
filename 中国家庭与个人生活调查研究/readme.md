@@ -10,6 +10,31 @@
 >   * 人间防骗指南：https://github.com/QERSSD/HowToAvoidScams
 >   * 高性价比人生指南：https://github.com/eternity4719/HowToLiveBetter
 
+
+## ゼロ、生育制度
+
+> It does not do to dwell on dreams and forget to live.（人不能活在梦里而忘记生活）
+>  —— 《哈利波特》系列电影台词
+
+赛博缅北朝鲜结合体国志之真宏大叙事威力加强版
+
+* 中国家庭教育支出调查报告（2021）：https://ciefr.pku.edu.cn/docs/2023-11/c0966ce10e3d4f58a25001735cc2a18c.pdf
+* 中国生育成本报告（2024）：https://www.caoss.org.cn/news/html?id=14157
+* 中国财政供养人员规模估算与结构分析：https://caoss.org.cn/upload/news/20251010/9bde5fa5bd4b44f594ef8e33f8255368.pdf
+* 社会分层、制度分割与社会不平等：一项关于中国养老金制度的福利社会学：https://www.wsp-publishing.com/en/article/22254500
+* 《中国基本医疗保险缴费制度公平性:基于国别比较的视角》：[东北财经大学直链](https://zzs.dufe.edu.cn/file/45817554-f613-11f0-8b6b-005056a49984/%E6%8E%92%E7%89%88%2B%E5%90%B4%E6%B6%B5%E5%AE%87_%E5%90%B4%E5%AE%87%E6%B6%B5_L.pdf)
+* 凤凰网：在中国死一次要花多少钱？：https://opinion.voc.com.cn/news/201503/21162647.html
+
+扩展阅读：
+
+* 从摇篮到坟墓：国际视角下的丧葬福利：https://sci-hub.st/10.1111/spol.12018
+* 了解生命末期面临的严重困境：一项全国性的无人认领死亡案例分析：https://pmc.ncbi.nlm.nih.gov/articles/PMC11769727/
+
+纪录片：
+
+* [【中英纪录片】生而贫穷 2011—2025 born poor 2025](https://www.bilibili.com/video/BV11iHF6PECX)
+* [日本NHK深度跟拍北京外卖小哥：被AI算法追赶的真实人生（中字熟肉）](https://www.bilibili.com/video/BV1yTsi66EKY)
+
 ## 一、最值得优先阅读的长期调查
 
 | 项目 | 机构 | 对象与覆盖 | 主要内容 | 实际链接 |
@@ -88,7 +113,7 @@
 
 下面的论文均明确使用了前述调查项目的数据。表中区分调查项目与波次、论文实际分析样本和研究问题。论文的统计结果不等于调查项目官方结论。
 
-### 中国大陆
+### 中国
 
 | 论文 | 数据与波次 | 样本 | 研究问题 | 原文 |
 |---|---|---|---|---|
